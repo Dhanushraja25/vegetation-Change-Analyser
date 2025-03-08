@@ -1,1 +1,3 @@
 # vegetation-Change-Analyser
+
+The Vegetation Change Analyzer using U-Net CNN project aims to monitor and analyze changes in vegetation over time by leveraging satellite or aerial imagery. By utilizing a U-Net Convolutional Neural Network (CNN) architecture, the project automatically segments and classifies regions with vegetation, detecting differences between images captured at different time points. This model helps identify areas of deforestation, urbanization, or agricultural expansion, contributing to environmental monitoring and decision-making. The U-Net architecture is specifically designed to work effectively with high-resolution images, ensuring accurate and detailed vegetation change detection in both small and large-scale landscapes.
